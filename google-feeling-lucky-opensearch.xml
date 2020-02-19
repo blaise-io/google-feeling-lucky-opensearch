@@ -8,7 +8,7 @@
     <Url type="application/x-suggestions+json" method="GET" template="https://www.google.com/complete/search?client=firefox&#x26;q={searchTerms}"/>
     <Url type="text/html" method="GET" template="https://www.google.com/search" rel="searchform">
         <Param name="q" value="{searchTerms}"/>
-        <Param name="btnI" value="1"/>
+        <Param name="btnI" value="I'm Feeling Lucky"/>
         <Param name="ie" value="utf-8"/>
         <Param name="oe" value="utf-8"/>
     </Url>
